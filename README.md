@@ -1,8 +1,8 @@
 # Place Picker
 
-Place Picker is a React application that allows users to select, sort, and manage a list of places. It provides features such as viewing available places, sorting them by distance, selecting a place, and removing places with a confirmation modal.
+**Place Picker** is a React application that allows users to select, sort, and manage a list of places. It provides features such as viewing available places, sorting them by distance, selecting a place, and removing places with a confirmation modal.
 
-🌐 Live Demo: placepicker-omega.vercel.app
+🌐 **Live Demo:** [Click here to visit](https://placepicker-omega.vercel.app)
 ## Features
 
 - **View Available Places**: Display a list of predefined places.
